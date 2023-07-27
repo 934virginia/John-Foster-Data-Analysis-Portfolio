@@ -1,4 +1,4 @@
-#Principal Component Analysis
+# Principal Component Analysis
 
 This analysis demonstrates the performance of principal component analysis in order to answer a research question relevant to the identified business needs of a fictional telecommunications company. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
