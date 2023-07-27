@@ -1,4 +1,4 @@
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 
 This analysis demonstrates the univariate, bivariate, and statistical testing of features (in this instance, t-testing), in order to answer a research question relevant to the identified business needs of a fictional telecommunications company. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
