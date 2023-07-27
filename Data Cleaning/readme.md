@@ -1,4 +1,4 @@
-#Data Cleaning
+# Data Cleaning
 
 This analysis primarily demonstrates data cleaning techniques necessary to answer a research question relevant to the identified business needs of a fictional telecommunications company. These techniques included a comparison of treatment strategies for duplicates, missingness (nullity), and outliers in a dataset. In addition, the analysis demonstrated Principal Component Analysis feature selection techniques for use in later analyses. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
