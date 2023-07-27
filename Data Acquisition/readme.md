@@ -1,4 +1,4 @@
-#Data Acquisition
+# Data Acquisition
 
 This analysis made use of a common SQL implementation to design and answer a research question relevant to the business needs of a fictional telecommunications organization. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
