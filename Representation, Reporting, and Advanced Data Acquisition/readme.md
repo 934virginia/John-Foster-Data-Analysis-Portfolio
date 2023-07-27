@@ -1,4 +1,4 @@
-#Representation, Reporting, and Advanced Data Acquisition
+# Representation, Reporting, and Advanced Data Acquisition
 
 This analysis incorporated a self-selected external dataset into our existing fictional telecommunications dataset in order to generate performance metrics and KPI's relevant to the needs of our fictional telecom organization. My work on this project earned an Excellence Award in Advanced Data Acquisition from Western Governor's University, which has been included in this subdirectory.
 
