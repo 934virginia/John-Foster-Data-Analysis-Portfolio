@@ -1,4 +1,4 @@
-#KNN Classification
+# KNN Classification
 
 This analysis demonstrates the construction and tuning of a Known-Nearest-Neighbor (KNN) classifier to answer a research question relevant to the identified business needs of a fictional telecommunications company. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
