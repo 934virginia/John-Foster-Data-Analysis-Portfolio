@@ -1,4 +1,4 @@
-#Sentiment Analysis
+# Sentiment Analysis
 
 This analysis demonstrates the construction, tuning, training, and testing of of an LSTM-based neural network designed to perform sentiment analysis on an open-source collection of movie reviews collected from IMDB. Within the context of the analysis, this model was then justified in its organizational use cases in the production and marketing fields. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
