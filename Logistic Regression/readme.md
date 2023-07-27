@@ -1,4 +1,4 @@
-#Logistic Regression
+# Logistic Regression
 
 This analysis demonstrates the process of performing a Logistic Regression to answer a research question relevant to the identified business needs of a fictional telecommunications company. All research questions, hypotheses, inferences, and conclusions contained in this analysis are my own unless otherwise cited.
 
